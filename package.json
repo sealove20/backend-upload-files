@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.js",
-    "start": "node src/indeex.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "aws-sdk": "^2.492.0",
