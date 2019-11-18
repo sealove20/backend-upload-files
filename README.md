@@ -13,7 +13,7 @@ To run this project in the development mode, you'll need to have a basic environ
 
 
 
-You will need to create a **.env** file and insert some environment variables like: 
+You will need to create a **.env** file and create some environment variables like: 
   - APP_URL (Where the app will run, like localhost:3000...)
   - MONGO_URL
   - STORAGE (local or aws)
