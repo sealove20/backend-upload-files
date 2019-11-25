@@ -3,7 +3,7 @@
 This is the back-end of the [frontend-upload-files
  project](https://github.com/sealove20/frontend-upload-files)
 
-It's a image upload management app that supports only images smaller than 2mb. I've used two strategies to store the data using multer library to manage which one will be used. Local strategy was built using multer and is used in dev environment, while aws strategy was done with aws-sdk for nodeJS and is used in production environment.
+It's a image upload management app that supports only images smaller than 2mb. I've used two strategies to store the data using multer library to manage which one will be used. Local strategy was built using multer local storage and is used in dev environment, while aws strategy was done with aws-sdk for nodeJS and is used in production environment.
 
 # Getting Started
 
